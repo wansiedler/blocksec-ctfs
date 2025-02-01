@@ -4,6 +4,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 ## Wargames and Writeups
 
 * [Ethernaut](https://ethernaut.openzeppelin.com/)
+  * [Ethernaut CTF Solution](https://github.com/0xIchigo/Ethernaut) by 0xIchigo
   * [Ethernaut-CTF Solutions using Ape and Vyper](https://github.com/0xJCN/Ethernaut-CTF) by 0xJCN
   * [Ethernaut CTF Series - All Things Security](https://blog.dixitaditya.com/series/ethernaut) - Solutions in Solidity and Foundry by Aditya Dixit
   * [Ethernaut Solutions by Aniket21mathur](https://github.com/Aniket21mathur/Ethernaut-Solutions) - Challenges 0-25
@@ -55,6 +56,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut x Foundry - 0x0 Hello Ethernaut](https://blog.0xeval.me/ethernaut-x-foundry-0x0-hello-ethernaut) by 0xeval
 
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+  * [Damn Vulnerable DeFi - Foundry](https://github.com/alexbabits/damn-vulnerable-defi-ctfs) by alexbabits
+  * [Damn Vulnerable DeFi - Foundry edition](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) by nicolasgarcia214
+  * [Damn Vulnerable DeFi - Foundry edition Challenge Solutions #1 to #12 on Medium.com](https://stermi.medium.com/damn-vulnerable-defi-challenge-1-unstoppable-92bacdefafcc) by StErMi
   * [DamnVulneraDeFi Solutions using Ape and Vyper](https://github.com/0xJCN/Damn-Vulnerable-DeFi-V3-CTF) by 0xJCN
   * [DamnVulnerableDefi ABI smuggling challenge walkthrough (plus infographic)](https://medium.com/@mattaereal/damnvulnerabledefi-abi-smuggling-challenge-walkthrough-plus-infographic-7098855d49a) by ᴍatías Λereal Λeón
   * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
@@ -78,7 +82,18 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Damn Vulnerable DeFi V2 - #11 Backdoor](https://ventral.digital/posts/2022/6/28/damn-vulnerable-defi-v2-11-backdoor) by patrickd
   * [Damn Vulnerable DeFi V2 - #12 Climber](https://ventral.digital/posts/2022/6/29/damn-vulnerable-defi-v2-12-climber) by patrickd
   * [Damn Vulnerable DeFi V2 - #13 Junior Miners](https://ventral.digital/posts/2022/7/2/damn-vulnerable-defi-v2-13-junior-miners) by patrickd
+  * [Damn Vulnerable DeFi V2 - #15 ABI Smuggling](https://www.pranavgarg.xyz/posts/damn-vuln-defi/abi-smuggling/) by Pranav Garg
+  * [Damn Vulnerable DeFi V3 Solutions](https://www.youtube.com/@BlueAlderETH) by Blue Addler
 
+* [OnlyPwner](https://onlypwner.xyz/)
+
+* [Numen CTF 2023](https://github.com/numencyber/NumenCTF_2023)
+  * [Numen Cyber CTF Writeups](https://github.com/minaminao/ctf-blockchain/blob/main/src/NumenCTF/README.md)
+  * [2023 NUMEN CTF Writeup - GOATFinance](https://defihacklabs.substack.com/p/2023-numen-ctf-writeup-goatfinance) by SunWeb3Sec
+  * [2023 NUMEN CTF Writeup - Asslot, Counter, Exist, LenderPool, Wallet](https://defihacklabs.substack.com/p/2023-numen-ctf-writeup-asslot-counter) by SunWeb3Sec
+  * [2023 NUMEN CTF Writeup - HEXP](https://defihacklabs.substack.com/p/2023-numen-ctf-writeup-hexp) by SunWeb3Sec
+
+* [Security Challenges Factory for Starknet](https://starknet-challenges.vercel.app/)
 
 * [Boutiful](https://blog.fe-lang.org/posts/bountiful-round-2/)
 
@@ -90,7 +105,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * [Capture the Ether](https://capturetheether.com/)
   * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
-  * [Capture the Ether Solution](https://www.rphad.com/en/blog/2021/12/30/) by RD
+  * [Capture the Ether Solution](https://www.rphad.com/en/blog/2021/12/30/) by RD'
+  * [Capture the Ether Foundry Solutions](https://github.com/0xraion/capture-the-ether-solutions-foundry) by 0xraion
 
 * [EtherHack](https://etherhack.positive.com/)
   * [EtherHack Contest Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248)
@@ -108,8 +124,45 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * [Gacha Lab](https://gachalab.inspex.co/)
   * [How Hackers Can Become “Lucky” in NFT Minting](https://inspexco.medium.com/how-hackers-can-become-lucky-in-nft-minting-822f48d4b917)
+  
+* [Curta CTF](https://www.curta.wtf/)
+  * [Curta CTF Sudoku solution using Halmos](https://twitter.com/0xkarmacoma/status/1632551527729758208) by karma.
+  * [Puzzle #3](https://twitter.com/0x796/status/1637905603682271232) by Convergence Boy.
+ 
+* [Decently Safe DeFi](https://decentlysafedefi.xyz/me/)
+
+
+* MEV-Share CTF 2023
+  * [MEV-Share CTF Writeups](https://github.com/minaminao/ctf-blockchain/tree/main/src/MEVShareCTF) by minaminao
+ 
+* [Only Pwner](https://onlypwner.xyz/)
+* [Web3Pwn](https://www.web3pwn.com)
 
 ## Challenges and Writeups
+
+* [SmartSecRiddles](https://github.com/marjon-call/SmartSecRiddles) by marjon-call
+
+* [Project SEKAI CTF 2023]
+  * [Project SEKAI CTF 2023 Re-Remix Writeup](https://github.com/minaminao/ctf-blockchain/tree/main/src/ProjectSekaiCTF2023) by minaminao.
+
+* [Whitenoise CTF](https://ctf.whitenoise.rs/)
+  * [Doves in the wind solution](https://github.com/orenyomtov/doves-in-the-wind-ctf-solution) by Oren Yomtov.
+
+* [Code is Law 1](https://github.com/orenyomtov/code-is-law-1) by Oren Yomtov.
+
+* [Code is Law 2](https://github.com/orenyomtov/code-is-law-2) by Oren Yomtov.
+
+* [Dragonfly CTF](https://ctf.dragonfly.xyz/)
+  * [Dragonfly CTF Solutions](https://twitter.com/merklejerk/status/1658510438512852999)
+  * [PuzzleBox CTF](https://github.com/smitrajput/dragonfly-puzzlebox-ctf) by smitrajput
+
+* [Trust Chain CTF](https://trustchain.medium.com/practice-smart-contract-hacking-right-now-ba3a8c6c537c)
+
+* [Huff Puzzles](https://github.com/RareSkills/huff-puzzles) by RareSkills.
+
+* [EKO2022 Enter the metaverse CTF](https://www.ctfprotocol.com/tracks/eko2022)
+  * [EKO2022 Enter the metaverse CTF Challenge 1 — Phoenixtto](https://stermi.medium.com/eko2022-enter-the-metaverse-ctf-challenge-1-phoenixtto-21373b3ec60) by StErMi
+  * [EKO2022 Enter the metaverse CTF Challenge 2 — Metaverse Supermarket](https://stermi.medium.com/eko2022-enter-the-metaverse-ctf-challenge-2-metaverse-supermarket-33a2065f9f0b) by StErMi.
 
 * [HappyNewYearCTF](https://twitter.com/0x796/status/1610620331387158531) by Convergence Boy
   * [Making of HappyNewYear CTF Puzzle](https://mirror.xyz/vicnaum.eth/reNCgNs7e0rDNx7h8Yt0a9xbS7wFss4950Dl8tYr2kY) by Convergence Boy
@@ -223,8 +276,18 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 * [Underhanded Solidity Contest](https://underhanded.soliditylang.org/) 
   * [Submissions for Underhanded Solidity Contest 2022](https://github.com/ethereum/solidity-underhanded-contest/tree/master/2022/submissions_2022)
   * [Submissions for Underhanded Solidity Contest 2020](https://github.com/ethereum/solidity-underhanded-contest/tree/master/2020/submissions_2020)
+  
+* [Solidity Riddles by RareSkills](https://github.com/RareSkills/solidity-riddles)
 
 ## CTFs and Writeups
+
+* [GPN CTF 2023](https://ctf.kitctf.de/)
+  * [GPN CTF 2023 writeup](https://github.com/Kaiziron/gpnctf2023-writeup/blob/main/gambling.md) by Kaiziron
+
+* [SEETF](https://seetf.sg/seetf/about)
+  * [SEETF 2023 Writeup](https://github.com/minaminao/ctf-blockchain/blob/main/src/SEETF2023/README.md) by minaminao
+  * [SEETF 2023 writeup](https://github.com/Kaiziron/seetf2023-writeup) by Kaiziron
+  * [SEETF 2022 Write List](https://docs.google.com/spreadsheets/d/12a7onACZZQLCvL7AdhBUUDV2OOo0AEXhlsNNXVWrSJ4/edit#gid=0)
 
 * [LA CTF 2023](https://lactf.uclaacm.com/)
   * [LA CTF 2023 Writeup](https://github.com/Kaiziron/lactf2023-writeup) by Kaiziron
